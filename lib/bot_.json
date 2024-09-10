@@ -1,0 +1,28 @@
+{
+  "bot_923192173398@s.whatsapp.net": {
+    "id": "bot_923192173398@s.whatsapp.net",
+    "alive_text": "*HEY &user*",
+    "alive_get": "you did'nt set alive message yet\nType [.alive info] to get alive info",
+    "alive_url": "",
+    "alive_image": false,
+    "alive_video": false,
+    "permit": false,
+    "permit_values": "all",
+    "chatbot": "false",
+    "antiviewonce": "true",
+    "antidelete": "true",
+    "autobio": "false",
+    "levelup": "false",
+    "anticall": "true",
+    "autoreaction": "true",
+    "bgm": false,
+    "bgmarray": {},
+    "plugins": {},
+    "notes": {},
+    "warn": {},
+    "afk": {},
+    "filter": {},
+    "mention": {},
+    "rent": {}
+  }
+}
