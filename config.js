@@ -61,7 +61,7 @@ global.scan = "https://pair-qr-wasi-md.onrender.com";
 
 global.SESSION_ID =
   process.env.SESSION_ID ||
-  "";
+  "eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRUtuRkJPTDRJdklnbWlVTTVqSzFuSGovZEMxbXRyQ0k0S2p0TzBhY29IND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZXM1NHh2ck40OGhlVmpTVHNTdmQycnhqdVRDNEJ5c3lFekFhd0VYS3NGOD0ifX0sInBhaXJpbmdFcGhlbW";
 module.exports = {
   menu: process.env.MENU || "",
   HANDLERS: process.env.PREFIX || ".",
